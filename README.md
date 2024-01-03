@@ -1,4 +1,6 @@
 # ComfyUI Q-Align（WIP）
-Implementation of [Q-Align](https://github.com/Q-Future/Q-Align) for ComfyUI
+Unofficial implementation of [Q-Align](https://github.com/Q-Future/Q-Align) for ComfyUI
+
+note：need >16GB VRAM
 
 
